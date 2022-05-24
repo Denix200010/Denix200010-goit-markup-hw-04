@@ -324,7 +324,7 @@ body {
   display: inline-flex;
   border-radius: 50%;
   fill: #afb1b8;
-  background-color: #f5f4fa;
+  background-color: #fff;
 }
 .team-social-link:hover,
 .team-social-link:focus {
